@@ -6,8 +6,6 @@ The game was developed from an original UI/UX design created in **Figma**.
 
 ### Design Preview
 
-![Design Preview]
-
 https://github.com/user-attachments/assets/3e876e9b-23cb-454a-8806-a061a4e44eea
 
 
