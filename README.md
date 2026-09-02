@@ -1,6 +1,6 @@
 ## 🎨 Design
 
-The game was developed from an original UI/UX design created in **Figma**.
+The game was developed from an original UI/UX design created in **Figma** for the tunisian iced tea called "Aris".
 
 🔗 **Figma Prototype:** [Web & Mobile] : https://www.figma.com/proto/JLqeDRN1MtvoE5hM94SXim/Sans-titre?node-id=255-104&t=oIVgbOEQDGfqEz9U-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=255%3A104&show-proto-sidebar=1
 
